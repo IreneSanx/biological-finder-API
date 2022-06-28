@@ -1,0 +1,446 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Entrezgene-Set PUBLIC "-//NLM//DTD NCBI-Entrezgene, 21st January 2005//EN" "https://www.ncbi.nlm.nih.gov/data_specs/dtd/NCBI_Entrezgene.dtd">
+<Entrezgene-Set>
+<Entrezgene>
+  <Entrezgene_track-info>
+    <Gene-track>
+      <Gene-track_geneid>65399153</Gene-track_geneid>
+      <Gene-track_create-date>
+        <Date>
+          <Date_std>
+            <Date-std>
+              <Date-std_year>2021</Date-std_year>
+              <Date-std_month>6</Date-std_month>
+              <Date-std_day>23</Date-std_day>
+              <Date-std_hour>17</Date-std_hour>
+              <Date-std_minute>6</Date-std_minute>
+              <Date-std_second>0</Date-std_second>
+            </Date-std>
+          </Date_std>
+        </Date>
+      </Gene-track_create-date>
+      <Gene-track_update-date>
+        <Date>
+          <Date_std>
+            <Date-std>
+              <Date-std_year>2021</Date-std_year>
+              <Date-std_month>6</Date-std_month>
+              <Date-std_day>25</Date-std_day>
+              <Date-std_hour>1</Date-std_hour>
+              <Date-std_minute>17</Date-std_minute>
+              <Date-std_second>28</Date-std_second>
+            </Date-std>
+          </Date_std>
+        </Date>
+      </Gene-track_update-date>
+    </Gene-track>
+  </Entrezgene_track-info>
+  <Entrezgene_type value="protein-coding">6</Entrezgene_type>
+  <Entrezgene_source>
+    <BioSource>
+      <BioSource_genome value="genomic">1</BioSource_genome>
+      <BioSource_org>
+        <Org-ref>
+          <Org-ref_taxname>Clostridium tertium</Org-ref_taxname>
+          <Org-ref_db>
+            <Dbtag>
+              <Dbtag_db>taxon</Dbtag_db>
+              <Dbtag_tag>
+                <Object-id>
+                  <Object-id_id>1559</Object-id_id>
+                </Object-id>
+              </Dbtag_tag>
+            </Dbtag>
+          </Org-ref_db>
+          <Org-ref_orgname>
+            <OrgName>
+              <OrgName_name>
+                <OrgName_name_binomial>
+                  <BinomialOrgName>
+                    <BinomialOrgName_genus>Clostridium</BinomialOrgName_genus>
+                    <BinomialOrgName_species>tertium</BinomialOrgName_species>
+                  </BinomialOrgName>
+                </OrgName_name_binomial>
+              </OrgName_name>
+              <OrgName_attrib>specified</OrgName_attrib>
+              <OrgName_mod>
+                <OrgMod>
+                  <OrgMod_subtype value="isolate">17</OrgMod_subtype>
+                  <OrgMod_subname>MGYG-HGUT-01328</OrgMod_subname>
+                </OrgMod>
+              </OrgName_mod>
+              <OrgName_lineage>Bacteria; Firmicutes; Clostridia; Eubacteriales; Clostridiaceae; Clostridium</OrgName_lineage>
+              <OrgName_gcode>11</OrgName_gcode>
+              <OrgName_div>BCT</OrgName_div>
+            </OrgName>
+          </Org-ref_orgname>
+        </Org-ref>
+      </BioSource_org>
+      <BioSource_subtype>
+        <SubSource>
+          <SubSource_subtype value="isolation-source">28</SubSource_subtype>
+          <SubSource_name>human gut</SubSource_name>
+        </SubSource>
+        <SubSource>
+          <SubSource_subtype value="other">255</SubSource_subtype>
+          <SubSource_name>contig: NZ_JH815222.1</SubSource_name>
+        </SubSource>
+      </BioSource_subtype>
+    </BioSource>
+  </Entrezgene_source>
+  <Entrezgene_gene>
+    <Gene-ref>
+      <Gene-ref_locus>miaB</Gene-ref_locus>
+      <Gene-ref_locus-tag>FXX58_RS08955</Gene-ref_locus-tag>
+    </Gene-ref>
+  </Entrezgene_gene>
+  <Entrezgene_prot>
+    <Prot-ref>
+      <Prot-ref_desc>tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB</Prot-ref_desc>
+      <Prot-ref_ec>
+        <Prot-ref_ec_E>2.8.4.3</Prot-ref_ec_E>
+      </Prot-ref_ec>
+    </Prot-ref>
+  </Entrezgene_prot>
+  <Entrezgene_gene-source>
+    <Gene-source>
+      <Gene-source_src>Entrez Genomes</Gene-source_src>
+      <Gene-source_src-int>1727668310</Gene-source_src-int>
+      <Gene-source_src-str1>NZ_CABKOG010000003</Gene-source_src-str1>
+      <Gene-source_src-str2>FXX58_RS08955</Gene-source_src-str2>
+    </Gene-source>
+  </Entrezgene_gene-source>
+  <Entrezgene_locus>
+    <Gene-commentary>
+      <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+      <Gene-commentary_accession>NZ_CABKOG010000003</Gene-commentary_accession>
+      <Gene-commentary_version>1</Gene-commentary_version>
+      <Gene-commentary_seqs>
+        <Seq-loc>
+          <Seq-loc_int>
+            <Seq-interval>
+              <Seq-interval_from>1566648</Seq-interval_from>
+              <Seq-interval_to>1567982</Seq-interval_to>
+              <Seq-interval_strand>
+                <Na-strand value="minus"/>
+              </Seq-interval_strand>
+              <Seq-interval_id>
+                <Seq-id>
+                  <Seq-id_gi>1727668310</Seq-id_gi>
+                </Seq-id>
+              </Seq-interval_id>
+            </Seq-interval>
+          </Seq-loc_int>
+        </Seq-loc>
+      </Gene-commentary_seqs>
+      <Gene-commentary_products>
+        <Gene-commentary>
+          <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+          <Gene-commentary_label>tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB</Gene-commentary_label>
+          <Gene-commentary_accession>WP_008678840</Gene-commentary_accession>
+          <Gene-commentary_version>1</Gene-commentary_version>
+          <Gene-commentary_refs>
+            <Pub>
+              <Pub_pmid>
+                <PubMedId>10572129</PubMedId>
+              </Pub_pmid>
+            </Pub>
+            <Pub>
+              <Pub_pmid>
+                <PubMedId>11313137</PubMedId>
+              </Pub_pmid>
+            </Pub>
+            <Pub>
+              <Pub_pmid>
+                <PubMedId>11882645</PubMedId>
+              </Pub_pmid>
+            </Pub>
+            <Pub>
+              <Pub_pmid>
+                <PubMedId>12766153</PubMedId>
+              </Pub_pmid>
+            </Pub>
+          </Gene-commentary_refs>
+          <Gene-commentary_genomic-coords>
+            <Seq-loc>
+              <Seq-loc_int>
+                <Seq-interval>
+                  <Seq-interval_from>1566648</Seq-interval_from>
+                  <Seq-interval_to>1567982</Seq-interval_to>
+                  <Seq-interval_strand>
+                    <Na-strand value="minus"/>
+                  </Seq-interval_strand>
+                  <Seq-interval_id>
+                    <Seq-id>
+                      <Seq-id_gi>1727668310</Seq-id_gi>
+                    </Seq-id>
+                  </Seq-interval_id>
+                </Seq-interval>
+              </Seq-loc_int>
+            </Seq-loc>
+          </Gene-commentary_genomic-coords>
+          <Gene-commentary_seqs>
+            <Seq-loc>
+              <Seq-loc_whole>
+                <Seq-id>
+                  <Seq-id_gi>495954261</Seq-id_gi>
+                </Seq-id>
+              </Seq-loc_whole>
+            </Seq-loc>
+          </Gene-commentary_seqs>
+          <Gene-commentary_comment>
+            <Gene-commentary>
+              <Gene-commentary_type value="property">16</Gene-commentary_type>
+              <Gene-commentary_label>EC</Gene-commentary_label>
+              <Gene-commentary_text>2.8.4.3</Gene-commentary_text>
+              <Gene-commentary_xtra-properties>
+                <Xtra-Terms>
+                  <Xtra-Terms_tag>EC</Xtra-Terms_tag>
+                  <Xtra-Terms_value>2.8.4.3</Xtra-Terms_value>
+                </Xtra-Terms>
+              </Gene-commentary_xtra-properties>
+            </Gene-commentary>
+          </Gene-commentary_comment>
+        </Gene-commentary>
+      </Gene-commentary_products>
+    </Gene-commentary>
+  </Entrezgene_locus>
+  <Entrezgene_comments>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>NCBI Reference Sequences (RefSeq)</Gene-commentary_heading>
+      <Gene-commentary_comment>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_heading>Genome Annotation</Gene-commentary_heading>
+          <Gene-commentary_products>
+            <Gene-commentary>
+              <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+              <Gene-commentary_heading>Reference assembly</Gene-commentary_heading>
+              <Gene-commentary_accession>NZ_CABKOG010000003</Gene-commentary_accession>
+              <Gene-commentary_version>1</Gene-commentary_version>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>Nucleotide</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>1727668310</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                </Other-source>
+              </Gene-commentary_source>
+              <Gene-commentary_seqs>
+                <Seq-loc>
+                  <Seq-loc_int>
+                    <Seq-interval>
+                      <Seq-interval_from>1566648</Seq-interval_from>
+                      <Seq-interval_to>1567982</Seq-interval_to>
+                      <Seq-interval_strand>
+                        <Na-strand value="minus"/>
+                      </Seq-interval_strand>
+                      <Seq-interval_id>
+                        <Seq-id>
+                          <Seq-id_gi>1727668310</Seq-id_gi>
+                        </Seq-id>
+                      </Seq-interval_id>
+                    </Seq-interval>
+                  </Seq-loc_int>
+                </Seq-loc>
+              </Gene-commentary_seqs>
+              <Gene-commentary_products>
+                <Gene-commentary>
+                  <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+                  <Gene-commentary_heading>Product</Gene-commentary_heading>
+                  <Gene-commentary_accession>WP_008678840</Gene-commentary_accession>
+                  <Gene-commentary_version>1</Gene-commentary_version>
+                  <Gene-commentary_source>
+                    <Other-source>
+                      <Other-source_src>
+                        <Dbtag>
+                          <Dbtag_db>Protein</Dbtag_db>
+                          <Dbtag_tag>
+                            <Object-id>
+                              <Object-id_id>495954261</Object-id_id>
+                            </Object-id>
+                          </Dbtag_tag>
+                        </Dbtag>
+                      </Other-source_src>
+                      <Other-source_anchor>WP_008678840</Other-source_anchor>
+                      <Other-source_post-text>MULTISPECIES: tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB [Clostridium]</Other-source_post-text>
+                    </Other-source>
+                  </Gene-commentary_source>
+                  <Gene-commentary_seqs>
+                    <Seq-loc>
+                      <Seq-loc_whole>
+                        <Seq-id>
+                          <Seq-id_gi>495954261</Seq-id_gi>
+                        </Seq-id>
+                      </Seq-loc_whole>
+                    </Seq-loc>
+                  </Gene-commentary_seqs>
+                  <Gene-commentary_comment>
+                    <Gene-commentary>
+                      <Gene-commentary_type value="other">255</Gene-commentary_type>
+                      <Gene-commentary_heading>Conserved Domains</Gene-commentary_heading>
+                      <Gene-commentary_source>
+                        <Other-source>
+                          <Other-source_pre-text>(4)</Other-source_pre-text>
+                          <Other-source_anchor>summary</Other-source_anchor>
+                        </Other-source>
+                      </Gene-commentary_source>
+                      <Gene-commentary_comment>
+                        <Gene-commentary>
+                          <Gene-commentary_type value="other">255</Gene-commentary_type>
+                          <Gene-commentary_source>
+                            <Other-source>
+                              <Other-source_src>
+                                <Dbtag>
+                                  <Dbtag_db>CDD</Dbtag_db>
+                                  <Dbtag_tag>
+                                    <Object-id>
+                                      <Object-id_id>100105</Object-id_id>
+                                    </Object-id>
+                                  </Dbtag_tag>
+                                </Dbtag>
+                              </Other-source_src>
+                              <Other-source_anchor>cd01335: Radical_SAM; Radical SAM superfamily. Enzymes of this family generate radicals by combining a 4Fe-4S cluster and S-adenosylmethionine (SAM) in close proximity. They are characterized by a conserved CxxxCxxC motif, which coordinates the conserved iron-sulfur cluster. ...</Other-source_anchor>
+                            </Other-source>
+                          </Gene-commentary_source>
+                          <Gene-commentary_comment>
+                            <Gene-commentary>
+                              <Gene-commentary_type value="other">255</Gene-commentary_type>
+                              <Gene-commentary_text>Location: 161 - 358</Gene-commentary_text>
+                            </Gene-commentary>
+                          </Gene-commentary_comment>
+                        </Gene-commentary>
+                        <Gene-commentary>
+                          <Gene-commentary_type value="other">255</Gene-commentary_type>
+                          <Gene-commentary_source>
+                            <Other-source>
+                              <Other-source_src>
+                                <Dbtag>
+                                  <Dbtag_db>CDD</Dbtag_db>
+                                  <Dbtag_tag>
+                                    <Object-id>
+                                      <Object-id_id>237675</Object-id_id>
+                                    </Object-id>
+                                  </Dbtag_tag>
+                                </Dbtag>
+                              </Other-source_src>
+                              <Other-source_anchor>PRK14328: PRK14328; (dimethylallyl)adenosine tRNA methylthiotransferase; Provisional</Other-source_anchor>
+                            </Other-source>
+                          </Gene-commentary_source>
+                          <Gene-commentary_comment>
+                            <Gene-commentary>
+                              <Gene-commentary_type value="other">255</Gene-commentary_type>
+                              <Gene-commentary_text>Location: 9 - 443</Gene-commentary_text>
+                            </Gene-commentary>
+                          </Gene-commentary_comment>
+                        </Gene-commentary>
+                        <Gene-commentary>
+                          <Gene-commentary_type value="other">255</Gene-commentary_type>
+                          <Gene-commentary_source>
+                            <Other-source>
+                              <Other-source_src>
+                                <Dbtag>
+                                  <Dbtag_db>CDD</Dbtag_db>
+                                  <Dbtag_tag>
+                                    <Object-id>
+                                      <Object-id_id>279287</Object-id_id>
+                                    </Object-id>
+                                  </Dbtag_tag>
+                                </Dbtag>
+                              </Other-source_src>
+                              <Other-source_anchor>pfam00919: UPF0004; Uncharacterized protein family UPF0004</Other-source_anchor>
+                            </Other-source>
+                          </Gene-commentary_source>
+                          <Gene-commentary_comment>
+                            <Gene-commentary>
+                              <Gene-commentary_type value="other">255</Gene-commentary_type>
+                              <Gene-commentary_text>Location: 9 - 110</Gene-commentary_text>
+                            </Gene-commentary>
+                          </Gene-commentary_comment>
+                        </Gene-commentary>
+                        <Gene-commentary>
+                          <Gene-commentary_type value="other">255</Gene-commentary_type>
+                          <Gene-commentary_source>
+                            <Other-source>
+                              <Other-source_src>
+                                <Dbtag>
+                                  <Dbtag_db>CDD</Dbtag_db>
+                                  <Dbtag_tag>
+                                    <Object-id>
+                                      <Object-id_id>280171</Object-id_id>
+                                    </Object-id>
+                                  </Dbtag_tag>
+                                </Dbtag>
+                              </Other-source_src>
+                              <Other-source_anchor>pfam01938: TRAM; TRAM domain</Other-source_anchor>
+                            </Other-source>
+                          </Gene-commentary_source>
+                          <Gene-commentary_comment>
+                            <Gene-commentary>
+                              <Gene-commentary_type value="other">255</Gene-commentary_type>
+                              <Gene-commentary_text>Location: 382 - 444</Gene-commentary_text>
+                            </Gene-commentary>
+                          </Gene-commentary_comment>
+                        </Gene-commentary>
+                      </Gene-commentary_comment>
+                    </Gene-commentary>
+                    <Gene-commentary>
+                      <Gene-commentary_type value="other">255</Gene-commentary_type>
+                      <Gene-commentary_heading>UniProtKB</Gene-commentary_heading>
+                      <Gene-commentary_source></Gene-commentary_source>
+                      <Gene-commentary_comment>
+                        <Gene-commentary>
+                          <Gene-commentary_type value="other">255</Gene-commentary_type>
+                          <Gene-commentary_source>
+                            <Other-source>
+                              <Other-source_src>
+                                <Dbtag>
+                                  <Dbtag_db>UniProtKB/TrEMBL</Dbtag_db>
+                                  <Dbtag_tag>
+                                    <Object-id>
+                                      <Object-id_str>V9H3P4</Object-id_str>
+                                    </Object-id>
+                                  </Dbtag_tag>
+                                </Dbtag>
+                              </Other-source_src>
+                              <Other-source_anchor>V9H3P4</Other-source_anchor>
+                            </Other-source>
+                          </Gene-commentary_source>
+                        </Gene-commentary>
+                      </Gene-commentary_comment>
+                    </Gene-commentary>
+                  </Gene-commentary_comment>
+                </Gene-commentary>
+              </Gene-commentary_products>
+            </Gene-commentary>
+          </Gene-commentary_products>
+        </Gene-commentary>
+      </Gene-commentary_comment>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>RefSeq Status</Gene-commentary_heading>
+      <Gene-commentary_label></Gene-commentary_label>
+    </Gene-commentary>
+  </Entrezgene_comments>
+  <Entrezgene_unique-keys></Entrezgene_unique-keys>
+  <Entrezgene_xtra-iq></Entrezgene_xtra-iq>
+  <Entrezgene_non-unique-keys>
+    <Dbtag>
+      <Dbtag_db>ID</Dbtag_db>
+      <Dbtag_tag>
+        <Object-id>
+          <Object-id_id>1727668310</Object-id_id>
+        </Object-id>
+      </Dbtag_tag>
+    </Dbtag>
+  </Entrezgene_non-unique-keys>
+</Entrezgene>
+</Entrezgene-Set>

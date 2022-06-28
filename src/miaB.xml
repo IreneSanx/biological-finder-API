@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>2801</Count><RetMax>20</RetMax><RetStart>0</RetStart><IdList>
+<Id>65410283</Id>
+<Id>65403579</Id>
+<Id>945260</Id>
+<Id>7398402</Id>
+<Id>54188050</Id>
+<Id>29673913</Id>
+<Id>44998331</Id>
+<Id>41355717</Id>
+<Id>29571539</Id>
+<Id>4540818</Id>
+<Id>65399153</Id>
+<Id>63964934</Id>
+<Id>63956745</Id>
+<Id>62762769</Id>
+<Id>62761503</Id>
+<Id>61925787</Id>
+<Id>61859395</Id>
+<Id>61433090</Id>
+<Id>61117393</Id>
+<Id>60884385</Id>
+</IdList><TranslationSet/><TranslationStack>   <TermSet>    <Term>miaB[Gene Name]</Term>    <Field>Gene Name</Field>    <Count>2801</Count>    <Explode>N</Explode>   </TermSet>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>miaB[Gene Name]</QueryTranslation></eSearchResult>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>61</Count><RetMax>20</RetMax><RetStart>0</RetStart><IdList>
+<Id>7157</Id>
+<Id>22059</Id>
+<Id>24842</Id>
+<Id>30590</Id>
+<Id>2768677</Id>
+<Id>41273</Id>
+<Id>37888</Id>
+<Id>403869</Id>
+<Id>397276</Id>
+<Id>397926</Id>
+<Id>100049321</Id>
+<Id>100062044</Id>
+<Id>100682525</Id>
+<Id>443421</Id>
+<Id>100379269</Id>
+<Id>100136737</Id>
+<Id>102503238</Id>
+<Id>431679</Id>
+<Id>102135998</Id>
+<Id>118320602</Id>
+</IdList><TranslationSet/><TranslationStack>   <TermSet>    <Term>p53[Gene Name]</Term>    <Field>Gene Name</Field>    <Count>61</Count>    <Explode>N</Explode>   </TermSet>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>p53[Gene Name]</QueryTranslation></eSearchResult>

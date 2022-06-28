@@ -1,0 +1,422 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Entrezgene-Set PUBLIC "-//NLM//DTD NCBI-Entrezgene, 21st January 2005//EN" "https://www.ncbi.nlm.nih.gov/data_specs/dtd/NCBI_Entrezgene.dtd">
+<Entrezgene-Set>
+<Entrezgene>
+  <Entrezgene_track-info>
+    <Gene-track>
+      <Gene-track_geneid>65403579</Gene-track_geneid>
+      <Gene-track_create-date>
+        <Date>
+          <Date_std>
+            <Date-std>
+              <Date-std_year>2021</Date-std_year>
+              <Date-std_month>6</Date-std_month>
+              <Date-std_day>29</Date-std_day>
+              <Date-std_hour>6</Date-std_hour>
+              <Date-std_minute>16</Date-std_minute>
+              <Date-std_second>0</Date-std_second>
+            </Date-std>
+          </Date_std>
+        </Date>
+      </Gene-track_create-date>
+      <Gene-track_update-date>
+        <Date>
+          <Date_std>
+            <Date-std>
+              <Date-std_year>2021</Date-std_year>
+              <Date-std_month>6</Date-std_month>
+              <Date-std_day>30</Date-std_day>
+              <Date-std_hour>0</Date-std_hour>
+              <Date-std_minute>18</Date-std_minute>
+              <Date-std_second>0</Date-std_second>
+            </Date-std>
+          </Date_std>
+        </Date>
+      </Gene-track_update-date>
+    </Gene-track>
+  </Entrezgene_track-info>
+  <Entrezgene_type value="protein-coding">6</Entrezgene_type>
+  <Entrezgene_source>
+    <BioSource>
+      <BioSource_genome value="genomic">1</BioSource_genome>
+      <BioSource_org>
+        <Org-ref>
+          <Org-ref_taxname>Cytobacillus oceanisediminis</Org-ref_taxname>
+          <Org-ref_db>
+            <Dbtag>
+              <Dbtag_db>taxon</Dbtag_db>
+              <Dbtag_tag>
+                <Object-id>
+                  <Object-id_id>665099</Object-id_id>
+                </Object-id>
+              </Dbtag_tag>
+            </Dbtag>
+          </Org-ref_db>
+          <Org-ref_orgname>
+            <OrgName>
+              <OrgName_name>
+                <OrgName_name_binomial>
+                  <BinomialOrgName>
+                    <BinomialOrgName_genus>Cytobacillus</BinomialOrgName_genus>
+                    <BinomialOrgName_species>oceanisediminis</BinomialOrgName_species>
+                  </BinomialOrgName>
+                </OrgName_name_binomial>
+              </OrgName_name>
+              <OrgName_attrib>specified</OrgName_attrib>
+              <OrgName_mod>
+                <OrgMod>
+                  <OrgMod_subtype value="strain">2</OrgMod_subtype>
+                  <OrgMod_subname>CGMCC 1.10115</OrgMod_subname>
+                </OrgMod>
+                <OrgMod>
+                  <OrgMod_subtype value="type-material">38</OrgMod_subtype>
+                  <OrgMod_subname>type strain of Bacillus oceanisediminis</OrgMod_subname>
+                  <OrgMod_attrib>(2)strain=CGMCC 1.10115</OrgMod_attrib>
+                </OrgMod>
+                <OrgMod>
+                  <OrgMod_subtype value="old-name">254</OrgMod_subtype>
+                  <OrgMod_subname>Bacillus oceanisediminis</OrgMod_subname>
+                </OrgMod>
+              </OrgName_mod>
+              <OrgName_lineage>Bacteria; Firmicutes; Bacilli; Bacillales; Bacillaceae; Cytobacillus</OrgName_lineage>
+              <OrgName_gcode>11</OrgName_gcode>
+              <OrgName_div>BCT</OrgName_div>
+            </OrgName>
+          </Org-ref_orgname>
+        </Org-ref>
+      </BioSource_org>
+    </BioSource>
+  </Entrezgene_source>
+  <Entrezgene_gene>
+    <Gene-ref>
+      <Gene-ref_locus>miaB</Gene-ref_locus>
+      <Gene-ref_locus-tag>IQ19_RS11585</Gene-ref_locus-tag>
+    </Gene-ref>
+  </Entrezgene_gene>
+  <Entrezgene_prot>
+    <Prot-ref>
+      <Prot-ref_desc>tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB</Prot-ref_desc>
+      <Prot-ref_ec>
+        <Prot-ref_ec_E>2.8.4.3</Prot-ref_ec_E>
+      </Prot-ref_ec>
+    </Prot-ref>
+  </Entrezgene_prot>
+  <Entrezgene_gene-source>
+    <Gene-source>
+      <Gene-source_src>Entrez Genomes</Gene-source_src>
+      <Gene-source_src-int>1718083521</Gene-source_src-int>
+      <Gene-source_src-str1>NZ_VLKI01000005</Gene-source_src-str1>
+      <Gene-source_src-str2>IQ19_RS11585</Gene-source_src-str2>
+    </Gene-source>
+  </Entrezgene_gene-source>
+  <Entrezgene_locus>
+    <Gene-commentary>
+      <Gene-commentary_type value="property">16</Gene-commentary_type>
+      <Gene-commentary_label>old_locus_tag</Gene-commentary_label>
+      <Gene-commentary_text>IQ19_02390</Gene-commentary_text>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+      <Gene-commentary_accession>NZ_VLKI01000005</Gene-commentary_accession>
+      <Gene-commentary_version>1</Gene-commentary_version>
+      <Gene-commentary_seqs>
+        <Seq-loc>
+          <Seq-loc_int>
+            <Seq-interval>
+              <Seq-interval_from>273912</Seq-interval_from>
+              <Seq-interval_to>275459</Seq-interval_to>
+              <Seq-interval_strand>
+                <Na-strand value="plus"/>
+              </Seq-interval_strand>
+              <Seq-interval_id>
+                <Seq-id>
+                  <Seq-id_gi>1718083521</Seq-id_gi>
+                </Seq-id>
+              </Seq-interval_id>
+            </Seq-interval>
+          </Seq-loc_int>
+        </Seq-loc>
+      </Gene-commentary_seqs>
+      <Gene-commentary_products>
+        <Gene-commentary>
+          <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+          <Gene-commentary_label>tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB</Gene-commentary_label>
+          <Gene-commentary_accession>WP_199749447</Gene-commentary_accession>
+          <Gene-commentary_version>1</Gene-commentary_version>
+          <Gene-commentary_refs>
+            <Pub>
+              <Pub_pmid>
+                <PubMedId>26203337</PubMedId>
+              </Pub_pmid>
+            </Pub>
+          </Gene-commentary_refs>
+          <Gene-commentary_genomic-coords>
+            <Seq-loc>
+              <Seq-loc_int>
+                <Seq-interval>
+                  <Seq-interval_from>273912</Seq-interval_from>
+                  <Seq-interval_to>275459</Seq-interval_to>
+                  <Seq-interval_strand>
+                    <Na-strand value="plus"/>
+                  </Seq-interval_strand>
+                  <Seq-interval_id>
+                    <Seq-id>
+                      <Seq-id_gi>1718083521</Seq-id_gi>
+                    </Seq-id>
+                  </Seq-interval_id>
+                </Seq-interval>
+              </Seq-loc_int>
+            </Seq-loc>
+          </Gene-commentary_genomic-coords>
+          <Gene-commentary_seqs>
+            <Seq-loc>
+              <Seq-loc_whole>
+                <Seq-id>
+                  <Seq-id_gi>1952650005</Seq-id_gi>
+                </Seq-id>
+              </Seq-loc_whole>
+            </Seq-loc>
+          </Gene-commentary_seqs>
+          <Gene-commentary_comment>
+            <Gene-commentary>
+              <Gene-commentary_type value="property">16</Gene-commentary_type>
+              <Gene-commentary_label>EC</Gene-commentary_label>
+              <Gene-commentary_text>2.8.4.3</Gene-commentary_text>
+              <Gene-commentary_xtra-properties>
+                <Xtra-Terms>
+                  <Xtra-Terms_tag>EC</Xtra-Terms_tag>
+                  <Xtra-Terms_value>2.8.4.3</Xtra-Terms_value>
+                </Xtra-Terms>
+              </Gene-commentary_xtra-properties>
+            </Gene-commentary>
+          </Gene-commentary_comment>
+        </Gene-commentary>
+      </Gene-commentary_products>
+    </Gene-commentary>
+  </Entrezgene_locus>
+  <Entrezgene_comments>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>NCBI Reference Sequences (RefSeq)</Gene-commentary_heading>
+      <Gene-commentary_comment>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_heading>Genome Annotation</Gene-commentary_heading>
+          <Gene-commentary_products>
+            <Gene-commentary>
+              <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+              <Gene-commentary_heading>Reference assembly</Gene-commentary_heading>
+              <Gene-commentary_accession>NZ_VLKI01000005</Gene-commentary_accession>
+              <Gene-commentary_version>1</Gene-commentary_version>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>Nucleotide</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>1718083521</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                </Other-source>
+              </Gene-commentary_source>
+              <Gene-commentary_seqs>
+                <Seq-loc>
+                  <Seq-loc_int>
+                    <Seq-interval>
+                      <Seq-interval_from>273912</Seq-interval_from>
+                      <Seq-interval_to>275459</Seq-interval_to>
+                      <Seq-interval_strand>
+                        <Na-strand value="plus"/>
+                      </Seq-interval_strand>
+                      <Seq-interval_id>
+                        <Seq-id>
+                          <Seq-id_gi>1718083521</Seq-id_gi>
+                        </Seq-id>
+                      </Seq-interval_id>
+                    </Seq-interval>
+                  </Seq-loc_int>
+                </Seq-loc>
+              </Gene-commentary_seqs>
+              <Gene-commentary_products>
+                <Gene-commentary>
+                  <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+                  <Gene-commentary_heading>Product</Gene-commentary_heading>
+                  <Gene-commentary_accession>WP_199749447</Gene-commentary_accession>
+                  <Gene-commentary_version>1</Gene-commentary_version>
+                  <Gene-commentary_source>
+                    <Other-source>
+                      <Other-source_src>
+                        <Dbtag>
+                          <Dbtag_db>Protein</Dbtag_db>
+                          <Dbtag_tag>
+                            <Object-id>
+                              <Object-id_id>1952650005</Object-id_id>
+                            </Object-id>
+                          </Dbtag_tag>
+                        </Dbtag>
+                      </Other-source_src>
+                      <Other-source_anchor>WP_199749447</Other-source_anchor>
+                      <Other-source_post-text>tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB [Cytobacillus oceanisediminis]</Other-source_post-text>
+                    </Other-source>
+                  </Gene-commentary_source>
+                  <Gene-commentary_seqs>
+                    <Seq-loc>
+                      <Seq-loc_whole>
+                        <Seq-id>
+                          <Seq-id_gi>1952650005</Seq-id_gi>
+                        </Seq-id>
+                      </Seq-loc_whole>
+                    </Seq-loc>
+                  </Gene-commentary_seqs>
+                  <Gene-commentary_comment>
+                    <Gene-commentary>
+                      <Gene-commentary_type value="other">255</Gene-commentary_type>
+                      <Gene-commentary_heading>Conserved Domains</Gene-commentary_heading>
+                      <Gene-commentary_source>
+                        <Other-source>
+                          <Other-source_pre-text>(1)</Other-source_pre-text>
+                          <Other-source_anchor>summary</Other-source_anchor>
+                        </Other-source>
+                      </Gene-commentary_source>
+                      <Gene-commentary_comment>
+                        <Gene-commentary>
+                          <Gene-commentary_type value="other">255</Gene-commentary_type>
+                          <Gene-commentary_source>
+                            <Other-source>
+                              <Other-source_src>
+                                <Dbtag>
+                                  <Dbtag_db>CDD</Dbtag_db>
+                                  <Dbtag_tag>
+                                    <Object-id>
+                                      <Object-id_id>184624</Object-id_id>
+                                    </Object-id>
+                                  </Dbtag_tag>
+                                </Dbtag>
+                              </Other-source_src>
+                              <Other-source_anchor>PRK14327: PRK14327; (dimethylallyl)adenosine tRNA methylthiotransferase; Provisional</Other-source_anchor>
+                            </Other-source>
+                          </Gene-commentary_source>
+                          <Gene-commentary_comment>
+                            <Gene-commentary>
+                              <Gene-commentary_type value="other">255</Gene-commentary_type>
+                              <Gene-commentary_text>Location: 2 - 514</Gene-commentary_text>
+                            </Gene-commentary>
+                          </Gene-commentary_comment>
+                        </Gene-commentary>
+                      </Gene-commentary_comment>
+                    </Gene-commentary>
+                  </Gene-commentary_comment>
+                </Gene-commentary>
+              </Gene-commentary_products>
+            </Gene-commentary>
+          </Gene-commentary_products>
+        </Gene-commentary>
+      </Gene-commentary_comment>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>Related Sequences</Gene-commentary_heading>
+      <Gene-commentary_products>
+        <Gene-commentary>
+          <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+          <Gene-commentary_heading>Genomic</Gene-commentary_heading>
+          <Gene-commentary_accession>VLKI01000005</Gene-commentary_accession>
+          <Gene-commentary_version>1</Gene-commentary_version>
+          <Gene-commentary_source>
+            <Other-source>
+              <Other-source_src>
+                <Dbtag>
+                  <Dbtag_db>Nucleotide</Dbtag_db>
+                  <Dbtag_tag>
+                    <Object-id>
+                      <Object-id_id>1716159415</Object-id_id>
+                    </Object-id>
+                  </Dbtag_tag>
+                </Dbtag>
+              </Other-source_src>
+              <Other-source_anchor>VLKI01000005</Other-source_anchor>
+            </Other-source>
+          </Gene-commentary_source>
+          <Gene-commentary_seqs>
+            <Seq-loc>
+              <Seq-loc_whole>
+                <Seq-id>
+                  <Seq-id_gi>1716159415</Seq-id_gi>
+                </Seq-id>
+              </Seq-loc_whole>
+            </Seq-loc>
+          </Gene-commentary_seqs>
+          <Gene-commentary_products>
+            <Gene-commentary>
+              <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+              <Gene-commentary_accession>TWH87438</Gene-commentary_accession>
+              <Gene-commentary_version>1</Gene-commentary_version>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>Protein</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>1716159674</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_anchor>TWH87438</Other-source_anchor>
+                </Other-source>
+              </Gene-commentary_source>
+              <Gene-commentary_seqs>
+                <Seq-loc>
+                  <Seq-loc_whole>
+                    <Seq-id>
+                      <Seq-id_gi>1716159674</Seq-id_gi>
+                    </Seq-id>
+                  </Seq-loc_whole>
+                </Seq-loc>
+              </Gene-commentary_seqs>
+            </Gene-commentary>
+          </Gene-commentary_products>
+        </Gene-commentary>
+      </Gene-commentary_products>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>RefSeq Status</Gene-commentary_heading>
+      <Gene-commentary_label></Gene-commentary_label>
+    </Gene-commentary>
+  </Entrezgene_comments>
+  <Entrezgene_unique-keys></Entrezgene_unique-keys>
+  <Entrezgene_xtra-iq>
+    <Xtra-Terms>
+      <Xtra-Terms_tag>NUCLEOTIDE</Xtra-Terms_tag>
+      <Xtra-Terms_value>1716159415</Xtra-Terms_value>
+    </Xtra-Terms>
+    <Xtra-Terms>
+      <Xtra-Terms_tag>PROTEIN</Xtra-Terms_tag>
+      <Xtra-Terms_value>1716159674</Xtra-Terms_value>
+    </Xtra-Terms>
+  </Entrezgene_xtra-iq>
+  <Entrezgene_non-unique-keys>
+    <Dbtag>
+      <Dbtag_db>ID</Dbtag_db>
+      <Dbtag_tag>
+        <Object-id>
+          <Object-id_id>1718083521</Object-id_id>
+        </Object-id>
+      </Dbtag_tag>
+    </Dbtag>
+    <Dbtag>
+      <Dbtag_db>locus tag</Dbtag_db>
+      <Dbtag_tag>
+        <Object-id>
+          <Object-id_str>IQ19_02390</Object-id_str>
+        </Object-id>
+      </Dbtag_tag>
+    </Dbtag>
+  </Entrezgene_non-unique-keys>
+</Entrezgene>
+</Entrezgene-Set>
