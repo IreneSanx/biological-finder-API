@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>592</Count><RetMax>20</RetMax><RetStart>0</RetStart><IdList>
+<Id>948435</Id>
+<Id>45851251</Id>
+<Id>7278192</Id>
+<Id>57210925</Id>
+<Id>57669612</Id>
+<Id>61416377</Id>
+<Id>62225388</Id>
+<Id>61538341</Id>
+<Id>61923648</Id>
+<Id>45797959</Id>
+<Id>61590819</Id>
+<Id>60774578</Id>
+<Id>63027843</Id>
+<Id>60846470</Id>
+<Id>58274895</Id>
+<Id>56941363</Id>
+<Id>45816763</Id>
+<Id>29467003</Id>
+<Id>60780283</Id>
+<Id>47100109</Id>
+</IdList><TranslationSet/><TranslationStack>   <TermSet>    <Term>metJ[Gene Name]</Term>    <Field>Gene Name</Field>    <Count>592</Count>    <Explode>N</Explode>   </TermSet>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>metJ[Gene Name]</QueryTranslation></eSearchResult>

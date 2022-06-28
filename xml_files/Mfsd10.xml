@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>415</Count><RetMax>20</RetMax><RetStart>0</RetStart><IdList>
+<Id>10227</Id>
+<Id>68294</Id>
+<Id>305449</Id>
+<Id>550360</Id>
+<Id>100145046</Id>
+<Id>181765</Id>
+<Id>720098</Id>
+<Id>507194</Id>
+<Id>488795</Id>
+<Id>461081</Id>
+<Id>422881</Id>
+<Id>495236</Id>
+<Id>109685748</Id>
+<Id>102516385</Id>
+<Id>102476212</Id>
+<Id>102262581</Id>
+<Id>102092331</Id>
+<Id>101680036</Id>
+<Id>103186318</Id>
+<Id>100767880</Id>
+</IdList><TranslationSet/><TranslationStack>   <TermSet>    <Term>Mfsd10[Gene Name]</Term>    <Field>Gene Name</Field>    <Count>415</Count>    <Explode>N</Explode>   </TermSet>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>Mfsd10[Gene Name]</QueryTranslation></eSearchResult>

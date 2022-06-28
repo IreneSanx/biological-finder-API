@@ -1,0 +1,1115 @@
+<?xml version="1.0" ?>
+<!DOCTYPE Entrezgene-Set PUBLIC "-//NLM//DTD NCBI-Entrezgene, 21st January 2005//EN" "https://www.ncbi.nlm.nih.gov/data_specs/dtd/NCBI_Entrezgene.dtd">
+<Entrezgene-Set>
+<Entrezgene>
+  <Entrezgene_track-info>
+    <Gene-track>
+      <Gene-track_geneid>945260</Gene-track_geneid>
+      <Gene-track_create-date>
+        <Date>
+          <Date_std>
+            <Date-std>
+              <Date-std_year>2003</Date-std_year>
+              <Date-std_month>8</Date-std_month>
+              <Date-std_day>1</Date-std_day>
+              <Date-std_hour>20</Date-std_hour>
+              <Date-std_minute>35</Date-std_minute>
+              <Date-std_second>0</Date-std_second>
+            </Date-std>
+          </Date_std>
+        </Date>
+      </Gene-track_create-date>
+      <Gene-track_update-date>
+        <Date>
+          <Date_std>
+            <Date-std>
+              <Date-std_year>2021</Date-std_year>
+              <Date-std_month>5</Date-std_month>
+              <Date-std_day>6</Date-std_day>
+              <Date-std_hour>16</Date-std_hour>
+              <Date-std_minute>41</Date-std_minute>
+              <Date-std_second>0</Date-std_second>
+            </Date-std>
+          </Date_std>
+        </Date>
+      </Gene-track_update-date>
+    </Gene-track>
+  </Entrezgene_track-info>
+  <Entrezgene_type value="protein-coding">6</Entrezgene_type>
+  <Entrezgene_source>
+    <BioSource>
+      <BioSource_genome value="chromosome">21</BioSource_genome>
+      <BioSource_org>
+        <Org-ref>
+          <Org-ref_taxname>Escherichia coli str. K-12 substr. MG1655</Org-ref_taxname>
+          <Org-ref_db>
+            <Dbtag>
+              <Dbtag_db>taxon</Dbtag_db>
+              <Dbtag_tag>
+                <Object-id>
+                  <Object-id_id>511145</Object-id_id>
+                </Object-id>
+              </Dbtag_tag>
+            </Dbtag>
+          </Org-ref_db>
+          <Org-ref_orgname>
+            <OrgName>
+              <OrgName_name>
+                <OrgName_name_binomial>
+                  <BinomialOrgName>
+                    <BinomialOrgName_genus>Escherichia</BinomialOrgName_genus>
+                    <BinomialOrgName_species>coli</BinomialOrgName_species>
+                  </BinomialOrgName>
+                </OrgName_name_binomial>
+              </OrgName_name>
+              <OrgName_attrib>specified</OrgName_attrib>
+              <OrgName_mod>
+                <OrgMod>
+                  <OrgMod_subtype value="strain">2</OrgMod_subtype>
+                  <OrgMod_subname>K-12</OrgMod_subname>
+                </OrgMod>
+                <OrgMod>
+                  <OrgMod_subtype value="substrain">3</OrgMod_subtype>
+                  <OrgMod_subname>MG1655</OrgMod_subname>
+                </OrgMod>
+              </OrgName_mod>
+              <OrgName_lineage>Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia</OrgName_lineage>
+              <OrgName_gcode>11</OrgName_gcode>
+              <OrgName_div>BCT</OrgName_div>
+            </OrgName>
+          </Org-ref_orgname>
+        </Org-ref>
+      </BioSource_org>
+    </BioSource>
+  </Entrezgene_source>
+  <Entrezgene_gene>
+    <Gene-ref>
+      <Gene-ref_locus>miaB</Gene-ref_locus>
+      <Gene-ref_db>
+        <Dbtag>
+          <Dbtag_db>ASAP</Dbtag_db>
+          <Dbtag_tag>
+            <Object-id>
+              <Object-id_str>ABE-0002260</Object-id_str>
+            </Object-id>
+          </Dbtag_tag>
+        </Dbtag>
+        <Dbtag>
+          <Dbtag_db>ECOCYC</Dbtag_db>
+          <Dbtag_tag>
+            <Object-id>
+              <Object-id_str>G6364</Object-id_str>
+            </Object-id>
+          </Dbtag_tag>
+        </Dbtag>
+      </Gene-ref_db>
+      <Gene-ref_syn>
+        <Gene-ref_syn_E>ECK0653</Gene-ref_syn_E>
+        <Gene-ref_syn_E>yleA</Gene-ref_syn_E>
+      </Gene-ref_syn>
+      <Gene-ref_locus-tag>b0661</Gene-ref_locus-tag>
+    </Gene-ref>
+  </Entrezgene_gene>
+  <Entrezgene_prot>
+    <Prot-ref>
+      <Prot-ref_desc>isopentenyl-adenosine A37 tRNA methylthiolase</Prot-ref_desc>
+      <Prot-ref_ec>
+        <Prot-ref_ec_E>2.8.4.3</Prot-ref_ec_E>
+      </Prot-ref_ec>
+    </Prot-ref>
+  </Entrezgene_prot>
+  <Entrezgene_summary>Radical SAM superfamily. rimO and miaB are paralogs. [More information is available at EcoGene: EG13657]. MiaB is an isopentenyl-adenosine tRNA methylthiolase that assists in the prevention of frameshift mutations. [More information is available at EcoCyc: G6364].</Entrezgene_summary>
+  <Entrezgene_gene-source>
+    <Gene-source>
+      <Gene-source_src>Entrez Genomes</Gene-source_src>
+      <Gene-source_src-int>556503834</Gene-source_src-int>
+      <Gene-source_src-str1>NC_000913</Gene-source_src-str1>
+      <Gene-source_src-str2>b0661</Gene-source_src-str2>
+    </Gene-source>
+  </Entrezgene_gene-source>
+  <Entrezgene_locus>
+    <Gene-commentary>
+      <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+      <Gene-commentary_accession>NC_000913</Gene-commentary_accession>
+      <Gene-commentary_version>3</Gene-commentary_version>
+      <Gene-commentary_seqs>
+        <Seq-loc>
+          <Seq-loc_int>
+            <Seq-interval>
+              <Seq-interval_from>693530</Seq-interval_from>
+              <Seq-interval_to>694954</Seq-interval_to>
+              <Seq-interval_strand>
+                <Na-strand value="minus"/>
+              </Seq-interval_strand>
+              <Seq-interval_id>
+                <Seq-id>
+                  <Seq-id_gi>556503834</Seq-id_gi>
+                </Seq-id>
+              </Seq-interval_id>
+            </Seq-interval>
+          </Seq-loc_int>
+        </Seq-loc>
+      </Gene-commentary_seqs>
+      <Gene-commentary_products>
+        <Gene-commentary>
+          <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+          <Gene-commentary_label>isopentenyl-adenosine A37 tRNA methylthiolase</Gene-commentary_label>
+          <Gene-commentary_accession>NP_415194</Gene-commentary_accession>
+          <Gene-commentary_version>1</Gene-commentary_version>
+          <Gene-commentary_refs>
+            <Pub>
+              <Pub_pmid>
+                <PubMedId>9278503</PubMedId>
+              </Pub_pmid>
+            </Pub>
+            <Pub>
+              <Pub_pmid>
+                <PubMedId>16397293</PubMedId>
+              </Pub_pmid>
+            </Pub>
+            <Pub>
+              <Pub_pmid>
+                <PubMedId>16738553</PubMedId>
+              </Pub_pmid>
+            </Pub>
+          </Gene-commentary_refs>
+          <Gene-commentary_source>
+            <Other-source>
+              <Other-source_src>
+                <Dbtag>
+                  <Dbtag_db>UniProtKB/Swiss-Prot</Dbtag_db>
+                  <Dbtag_tag>
+                    <Object-id>
+                      <Object-id_str>P0AEI1</Object-id_str>
+                    </Object-id>
+                  </Dbtag_tag>
+                </Dbtag>
+              </Other-source_src>
+            </Other-source>
+          </Gene-commentary_source>
+          <Gene-commentary_genomic-coords>
+            <Seq-loc>
+              <Seq-loc_int>
+                <Seq-interval>
+                  <Seq-interval_from>693530</Seq-interval_from>
+                  <Seq-interval_to>694954</Seq-interval_to>
+                  <Seq-interval_strand>
+                    <Na-strand value="minus"/>
+                  </Seq-interval_strand>
+                  <Seq-interval_id>
+                    <Seq-id>
+                      <Seq-id_gi>556503834</Seq-id_gi>
+                    </Seq-id>
+                  </Seq-interval_id>
+                </Seq-interval>
+              </Seq-loc_int>
+            </Seq-loc>
+          </Gene-commentary_genomic-coords>
+          <Gene-commentary_seqs>
+            <Seq-loc>
+              <Seq-loc_whole>
+                <Seq-id>
+                  <Seq-id_gi>16128644</Seq-id_gi>
+                </Seq-id>
+              </Seq-loc_whole>
+            </Seq-loc>
+          </Gene-commentary_seqs>
+          <Gene-commentary_comment>
+            <Gene-commentary>
+              <Gene-commentary_type value="property">16</Gene-commentary_type>
+              <Gene-commentary_label>EC</Gene-commentary_label>
+              <Gene-commentary_text>2.8.4.3</Gene-commentary_text>
+              <Gene-commentary_xtra-properties>
+                <Xtra-Terms>
+                  <Xtra-Terms_tag>EC</Xtra-Terms_tag>
+                  <Xtra-Terms_value>2.8.4.3</Xtra-Terms_value>
+                </Xtra-Terms>
+              </Gene-commentary_xtra-properties>
+            </Gene-commentary>
+          </Gene-commentary_comment>
+        </Gene-commentary>
+      </Gene-commentary_products>
+    </Gene-commentary>
+  </Entrezgene_locus>
+  <Entrezgene_properties>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>GeneOntology</Gene-commentary_heading>
+      <Gene-commentary_source>
+        <Other-source>
+          <Other-source_pre-text>Provided by</Other-source_pre-text>
+          <Other-source_anchor>GO</Other-source_anchor>
+          <Other-source_url>http://www.geneontology.org/</Other-source_url>
+        </Other-source>
+      </Gene-commentary_source>
+      <Gene-commentary_comment>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_label>Function</Gene-commentary_label>
+          <Gene-commentary_comment>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>21873635</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>51539</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>4 iron, 4 sulfur cluster binding</Other-source_anchor>
+                  <Other-source_post-text>evidence: IBA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>11882645</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>51539</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>4 iron, 4 sulfur cluster binding</Other-source_anchor>
+                  <Other-source_post-text>evidence: IDA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>51539</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>4 iron, 4 sulfur cluster binding</Other-source_anchor>
+                  <Other-source_post-text>evidence: IEA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>21873635</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>35597</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>N6-isopentenyladenosine methylthiotransferase activity</Other-source_anchor>
+                  <Other-source_post-text>evidence: IBA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>11882645</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>35597</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>N6-isopentenyladenosine methylthiotransferase activity</Other-source_anchor>
+                  <Other-source_post-text>evidence: IDA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>10572129</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>35597</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>N6-isopentenyladenosine methylthiotransferase activity</Other-source_anchor>
+                  <Other-source_post-text>evidence: IMP</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>3824</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>catalytic activity</Other-source_anchor>
+                  <Other-source_post-text>evidence: IEA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>51536</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>iron-sulfur cluster binding</Other-source_anchor>
+                  <Other-source_post-text>evidence: IEA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>46872</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>metal ion binding</Other-source_anchor>
+                  <Other-source_post-text>evidence: IEA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>21873635</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>35596</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>methylthiotransferase activity</Other-source_anchor>
+                  <Other-source_post-text>evidence: IBA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>35596</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>methylthiotransferase activity</Other-source_anchor>
+                  <Other-source_post-text>evidence: IEA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>23543739</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>5515</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>protein binding</Other-source_anchor>
+                  <Other-source_post-text>evidence: IPI</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>16740</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>enables</Other-source_pre-text>
+                  <Other-source_anchor>transferase activity</Other-source_anchor>
+                  <Other-source_post-text>evidence: IEA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+          </Gene-commentary_comment>
+        </Gene-commentary>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_label>Process</Gene-commentary_label>
+          <Gene-commentary_comment>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>10572129</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>30488</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>acts_upstream_of_or_within</Other-source_pre-text>
+                  <Other-source_anchor>tRNA methylation</Other-source_anchor>
+                  <Other-source_post-text>evidence: IMP</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>21873635</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>35600</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>involved_in</Other-source_pre-text>
+                  <Other-source_anchor>tRNA methylthiolation</Other-source_anchor>
+                  <Other-source_post-text>evidence: IBA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>6400</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>acts_upstream_of_or_within</Other-source_pre-text>
+                  <Other-source_anchor>tRNA modification</Other-source_anchor>
+                  <Other-source_post-text>evidence: IEA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>8033</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>acts_upstream_of_or_within</Other-source_pre-text>
+                  <Other-source_anchor>tRNA processing</Other-source_anchor>
+                  <Other-source_post-text>evidence: IEA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+          </Gene-commentary_comment>
+        </Gene-commentary>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_label>Component</Gene-commentary_label>
+          <Gene-commentary_comment>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>5737</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>located_in</Other-source_pre-text>
+                  <Other-source_anchor>cytoplasm</Other-source_anchor>
+                  <Other-source_post-text>evidence: IEA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>21873635</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>5829</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>is_active_in</Other-source_pre-text>
+                  <Other-source_anchor>cytosol</Other-source_anchor>
+                  <Other-source_post-text>evidence: IBA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+            <Gene-commentary>
+              <Gene-commentary_type value="comment">254</Gene-commentary_type>
+              <Gene-commentary_refs>
+                <Pub>
+                  <Pub_pmid>
+                    <PubMedId>18304323</PubMedId>
+                  </Pub_pmid>
+                </Pub>
+              </Gene-commentary_refs>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>GO</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>5829</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_pre-text>located_in</Other-source_pre-text>
+                  <Other-source_anchor>cytosol</Other-source_anchor>
+                  <Other-source_post-text>evidence: IDA</Other-source_post-text>
+                </Other-source>
+              </Gene-commentary_source>
+            </Gene-commentary>
+          </Gene-commentary_comment>
+        </Gene-commentary>
+      </Gene-commentary_comment>
+    </Gene-commentary>
+  </Entrezgene_properties>
+  <Entrezgene_comments>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>NCBI Reference Sequences (RefSeq)</Gene-commentary_heading>
+      <Gene-commentary_comment>
+        <Gene-commentary>
+          <Gene-commentary_type value="comment">254</Gene-commentary_type>
+          <Gene-commentary_heading>Genome Annotation</Gene-commentary_heading>
+          <Gene-commentary_products>
+            <Gene-commentary>
+              <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+              <Gene-commentary_heading>Reference assembly</Gene-commentary_heading>
+              <Gene-commentary_accession>NC_000913</Gene-commentary_accession>
+              <Gene-commentary_version>3</Gene-commentary_version>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>Nucleotide</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>556503834</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                </Other-source>
+              </Gene-commentary_source>
+              <Gene-commentary_seqs>
+                <Seq-loc>
+                  <Seq-loc_int>
+                    <Seq-interval>
+                      <Seq-interval_from>693530</Seq-interval_from>
+                      <Seq-interval_to>694954</Seq-interval_to>
+                      <Seq-interval_strand>
+                        <Na-strand value="minus"/>
+                      </Seq-interval_strand>
+                      <Seq-interval_id>
+                        <Seq-id>
+                          <Seq-id_gi>556503834</Seq-id_gi>
+                        </Seq-id>
+                      </Seq-interval_id>
+                    </Seq-interval>
+                  </Seq-loc_int>
+                </Seq-loc>
+              </Gene-commentary_seqs>
+              <Gene-commentary_products>
+                <Gene-commentary>
+                  <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+                  <Gene-commentary_heading>Product</Gene-commentary_heading>
+                  <Gene-commentary_accession>NP_415194</Gene-commentary_accession>
+                  <Gene-commentary_version>1</Gene-commentary_version>
+                  <Gene-commentary_source>
+                    <Other-source>
+                      <Other-source_src>
+                        <Dbtag>
+                          <Dbtag_db>Protein</Dbtag_db>
+                          <Dbtag_tag>
+                            <Object-id>
+                              <Object-id_id>16128644</Object-id_id>
+                            </Object-id>
+                          </Dbtag_tag>
+                        </Dbtag>
+                      </Other-source_src>
+                      <Other-source_anchor>NP_415194</Other-source_anchor>
+                      <Other-source_post-text>isopentenyl-adenosine A37 tRNA methylthiolase [Escherichia coli str. K-12 substr. MG1655]</Other-source_post-text>
+                    </Other-source>
+                  </Gene-commentary_source>
+                  <Gene-commentary_seqs>
+                    <Seq-loc>
+                      <Seq-loc_whole>
+                        <Seq-id>
+                          <Seq-id_gi>16128644</Seq-id_gi>
+                        </Seq-id>
+                      </Seq-loc_whole>
+                    </Seq-loc>
+                  </Gene-commentary_seqs>
+                  <Gene-commentary_comment>
+                    <Gene-commentary>
+                      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+                      <Gene-commentary_label>RefSeq Status</Gene-commentary_label>
+                      <Gene-commentary_text>PROVISIONAL</Gene-commentary_text>
+                    </Gene-commentary>
+                    <Gene-commentary>
+                      <Gene-commentary_type value="other">255</Gene-commentary_type>
+                      <Gene-commentary_heading>Conserved Domains</Gene-commentary_heading>
+                      <Gene-commentary_source>
+                        <Other-source>
+                          <Other-source_pre-text>(1)</Other-source_pre-text>
+                          <Other-source_anchor>summary</Other-source_anchor>
+                        </Other-source>
+                      </Gene-commentary_source>
+                      <Gene-commentary_comment>
+                        <Gene-commentary>
+                          <Gene-commentary_type value="other">255</Gene-commentary_type>
+                          <Gene-commentary_source>
+                            <Other-source>
+                              <Other-source_src>
+                                <Dbtag>
+                                  <Dbtag_db>CDD</Dbtag_db>
+                                  <Dbtag_tag>
+                                    <Object-id>
+                                      <Object-id_id>237673</Object-id_id>
+                                    </Object-id>
+                                  </Dbtag_tag>
+                                </Dbtag>
+                              </Other-source_src>
+                              <Other-source_anchor>PRK14325: PRK14325; (dimethylallyl)adenosine tRNA methylthiotransferase; Provisional</Other-source_anchor>
+                            </Other-source>
+                          </Gene-commentary_source>
+                          <Gene-commentary_comment>
+                            <Gene-commentary>
+                              <Gene-commentary_type value="other">255</Gene-commentary_type>
+                              <Gene-commentary_text>Location: 1 - 445</Gene-commentary_text>
+                            </Gene-commentary>
+                          </Gene-commentary_comment>
+                        </Gene-commentary>
+                      </Gene-commentary_comment>
+                    </Gene-commentary>
+                    <Gene-commentary>
+                      <Gene-commentary_type value="other">255</Gene-commentary_type>
+                      <Gene-commentary_heading>UniProtKB</Gene-commentary_heading>
+                      <Gene-commentary_source></Gene-commentary_source>
+                      <Gene-commentary_comment>
+                        <Gene-commentary>
+                          <Gene-commentary_type value="other">255</Gene-commentary_type>
+                          <Gene-commentary_source>
+                            <Other-source>
+                              <Other-source_src>
+                                <Dbtag>
+                                  <Dbtag_db>UniProtKB/Swiss-Prot</Dbtag_db>
+                                  <Dbtag_tag>
+                                    <Object-id>
+                                      <Object-id_str>P0AEI1</Object-id_str>
+                                    </Object-id>
+                                  </Dbtag_tag>
+                                </Dbtag>
+                              </Other-source_src>
+                              <Other-source_anchor>P0AEI1</Other-source_anchor>
+                            </Other-source>
+                          </Gene-commentary_source>
+                        </Gene-commentary>
+                      </Gene-commentary_comment>
+                    </Gene-commentary>
+                  </Gene-commentary_comment>
+                </Gene-commentary>
+              </Gene-commentary_products>
+            </Gene-commentary>
+          </Gene-commentary_products>
+        </Gene-commentary>
+      </Gene-commentary_comment>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>Related Sequences</Gene-commentary_heading>
+      <Gene-commentary_products>
+        <Gene-commentary>
+          <Gene-commentary_type value="genomic">1</Gene-commentary_type>
+          <Gene-commentary_heading>Genomic</Gene-commentary_heading>
+          <Gene-commentary_accession>U00096</Gene-commentary_accession>
+          <Gene-commentary_version>3</Gene-commentary_version>
+          <Gene-commentary_source>
+            <Other-source>
+              <Other-source_src>
+                <Dbtag>
+                  <Dbtag_db>Nucleotide</Dbtag_db>
+                  <Dbtag_tag>
+                    <Object-id>
+                      <Object-id_id>545778205</Object-id_id>
+                    </Object-id>
+                  </Dbtag_tag>
+                </Dbtag>
+              </Other-source_src>
+              <Other-source_anchor>U00096</Other-source_anchor>
+            </Other-source>
+          </Gene-commentary_source>
+          <Gene-commentary_seqs>
+            <Seq-loc>
+              <Seq-loc_whole>
+                <Seq-id>
+                  <Seq-id_gi>545778205</Seq-id_gi>
+                </Seq-id>
+              </Seq-loc_whole>
+            </Seq-loc>
+          </Gene-commentary_seqs>
+          <Gene-commentary_products>
+            <Gene-commentary>
+              <Gene-commentary_type value="peptide">8</Gene-commentary_type>
+              <Gene-commentary_accession>AAC73762</Gene-commentary_accession>
+              <Gene-commentary_version>1</Gene-commentary_version>
+              <Gene-commentary_source>
+                <Other-source>
+                  <Other-source_src>
+                    <Dbtag>
+                      <Dbtag_db>Protein</Dbtag_db>
+                      <Dbtag_tag>
+                        <Object-id>
+                          <Object-id_id>1786882</Object-id_id>
+                        </Object-id>
+                      </Dbtag_tag>
+                    </Dbtag>
+                  </Other-source_src>
+                  <Other-source_anchor>AAC73762</Other-source_anchor>
+                </Other-source>
+              </Gene-commentary_source>
+              <Gene-commentary_seqs>
+                <Seq-loc>
+                  <Seq-loc_whole>
+                    <Seq-id>
+                      <Seq-id_gi>1786882</Seq-id_gi>
+                    </Seq-id>
+                  </Seq-loc_whole>
+                </Seq-loc>
+              </Gene-commentary_seqs>
+            </Gene-commentary>
+          </Gene-commentary_products>
+        </Gene-commentary>
+      </Gene-commentary_products>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_heading>RefSeq Status</Gene-commentary_heading>
+      <Gene-commentary_label>PROVISIONAL</Gene-commentary_label>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="generif">18</Gene-commentary_type>
+      <Gene-commentary_text>GrxD and NfuA could play complementary roles in maturation and repair of MiaB</Gene-commentary_text>
+      <Gene-commentary_refs>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>23543739</PubMedId>
+          </Pub_pmid>
+        </Pub>
+      </Gene-commentary_refs>
+      <Gene-commentary_create-date>
+        <Date>
+          <Date_std>
+            <Date-std>
+              <Date-std_year>2013</Date-std_year>
+              <Date-std_month>8</Date-std_month>
+              <Date-std_day>10</Date-std_day>
+              <Date-std_hour>10</Date-std_hour>
+              <Date-std_minute>1</Date-std_minute>
+              <Date-std_second>0</Date-std_second>
+            </Date-std>
+          </Date_std>
+        </Date>
+      </Gene-commentary_create-date>
+      <Gene-commentary_update-date>
+        <Date>
+          <Date_std>
+            <Date-std>
+              <Date-std_year>2013</Date-std_year>
+              <Date-std_month>8</Date-std_month>
+              <Date-std_day>10</Date-std_day>
+              <Date-std_hour>12</Date-std_hour>
+              <Date-std_minute>21</Date-std_minute>
+              <Date-std_second>0</Date-std_second>
+            </Date-std>
+          </Date_std>
+        </Date>
+      </Gene-commentary_update-date>
+    </Gene-commentary>
+    <Gene-commentary>
+      <Gene-commentary_type value="comment">254</Gene-commentary_type>
+      <Gene-commentary_refs>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>7536729</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>9278503</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>9449261</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>10572129</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>11160115</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>11222759</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>11532950</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>11882645</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>11917006</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>15339930</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>17187058</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>17407324</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>17642475</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>17910062</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>17936058</PubMedId>
+          </Pub_pmid>
+        </Pub>
+        <Pub>
+          <Pub_pmid>
+            <PubMedId>18355719</PubMedId>
+          </Pub_pmid>
+        </Pub>
+      </Gene-commentary_refs>
+    </Gene-commentary>
+  </Entrezgene_comments>
+  <Entrezgene_unique-keys></Entrezgene_unique-keys>
+  <Entrezgene_xtra-iq>
+    <Xtra-Terms>
+      <Xtra-Terms_tag>NUCLEOTIDE</Xtra-Terms_tag>
+      <Xtra-Terms_value>545778205</Xtra-Terms_value>
+    </Xtra-Terms>
+    <Xtra-Terms>
+      <Xtra-Terms_tag>PROTEIN</Xtra-Terms_tag>
+      <Xtra-Terms_value>1786882</Xtra-Terms_value>
+    </Xtra-Terms>
+  </Entrezgene_xtra-iq>
+  <Entrezgene_non-unique-keys>
+    <Dbtag>
+      <Dbtag_db>ID</Dbtag_db>
+      <Dbtag_tag>
+        <Object-id>
+          <Object-id_id>556503834</Object-id_id>
+        </Object-id>
+      </Dbtag_tag>
+    </Dbtag>
+  </Entrezgene_non-unique-keys>
+</Entrezgene>
+</Entrezgene-Set>

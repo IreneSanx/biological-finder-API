@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "https://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>344</Count><RetMax>20</RetMax><RetStart>0</RetStart><IdList>
+<Id>3480</Id>
+<Id>16001</Id>
+<Id>25718</Id>
+<Id>281848</Id>
+<Id>397350</Id>
+<Id>395889</Id>
+<Id>442951</Id>
+<Id>398022</Id>
+<Id>443515</Id>
+<Id>100055698</Id>
+<Id>100861165</Id>
+<Id>708227</Id>
+<Id>100329112</Id>
+<Id>115586201</Id>
+<Id>100144342</Id>
+<Id>107318870</Id>
+<Id>102403092</Id>
+<Id>453676</Id>
+<Id>101802018</Id>
+<Id>100135872</Id>
+</IdList><TranslationSet/><TranslationStack>   <TermSet>    <Term>IGF1R[Gene Name]</Term>    <Field>Gene Name</Field>    <Count>344</Count>    <Explode>N</Explode>   </TermSet>   <OP>GROUP</OP>  </TranslationStack><QueryTranslation>IGF1R[Gene Name]</QueryTranslation></eSearchResult>
