@@ -373,9 +373,9 @@ def descarga_ids_name(listaIds):
         id = listaIds[i]
         busq = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=gene&id=' + id + '&rettype=null&retmode=xml'
         myfile = requests.get(busq)
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/' + id +'.xml', 'w').close
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ id +'.xml', 'wb').write(myfile.content)
-        resultado = xml_to_dict_name('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ id +'.xml')
+        open('../xml_files/' + id +'.xml', 'w').close
+        open('../xml_files/'+ id +'.xml', 'wb').write(myfile.content)
+        resultado = xml_to_dict_name('../xml_files/'+ id +'.xml')
         lista.append(resultado)
     return lista
 
@@ -385,9 +385,9 @@ def descarga_ids(listaIds):
         id = listaIds[i]
         busq = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=' + id + '&rettype=native&retmode=xml'
         myfile = requests.get(busq)
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/' + id +'.xml', 'w').close
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ id +'.xml', 'wb').write(myfile.content)
-        resultado = xml_to_dict('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ id +'.xml')
+        open('../xml_files/' + id +'.xml', 'w').close
+        open('../xml_files/'+ id +'.xml', 'wb').write(myfile.content)
+        resultado = xml_to_dict('../xml_files/'+ id +'.xml')
         lista.append(resultado)
     return lista
 
@@ -481,61 +481,39 @@ def insertElement(diccionario):
 def consultaGenBank(id,locus,name,organism,description):
     if (id != ""): 
         lista = []
-        """consulta_en_GenBank = ejecutarConsulta(id,"")
-        if consulta_en_GenBank != []:
-            lista.append(consulta_en_GenBank)
-        else:
-            urlID = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=' + id + '&rettype=native&retmode=xml'
-            myfileID = requests.get(urlID)
-            open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ id +'.xml', 'w').close
-            open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ id +'.xml', 'wb').write(myfileID.content)
-            resuID = xml_to_dict('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/' + id +'.xml')
-            insertElement(resuID)
-            lista.append(resuID)"""
         urlID = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=' + id + '&rettype=native&retmode=xml'
         myfileID = requests.get(urlID)
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ id +'.xml', 'w').close
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ id +'.xml', 'wb').write(myfileID.content)
-        resuID = xml_to_dict('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/' + id +'.xml')
+        open('../xml_files/'+ id +'.xml', 'w').close
+        open('../xml_files/'+ id +'.xml', 'wb').write(myfileID.content)
+        resuID = xml_to_dict('../xml_files/' + id +'.xml')
         lista.append(resuID)
     elif(locus != ""):
         lista = []
-        """consulta_en_GenBank = ejecutarConsulta("",locus)
-        if consulta_en_GenBank != []:
-            lista.append(consulta_en_GenBank)
-        else:
-            urlLocus = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=' + locus + '&rettype=native&retmode=xml'
-            myfileLocus = requests.get(urlLocus)
-            open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ locus +'.xml', 'w').close
-            open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ locus +'.xml', 'wb').write(myfileLocus.content)
-            resuLocus = xml_to_dict('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/' + locus +'.xml')
-            insertElement(resuLocus)
-            lista.append(resuLocus)"""
         urlLocus = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=' + locus + '&rettype=native&retmode=xml'
         myfileLocus = requests.get(urlLocus)
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ locus +'.xml', 'w').close
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ locus +'.xml', 'wb').write(myfileLocus.content)
-        resuLocus = xml_to_dict('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/' + locus +'.xml')
+        open('../xml_files/'+ locus +'.xml', 'w').close
+        open('../xml_files/'+ locus +'.xml', 'wb').write(myfileLocus.content)
+        resuLocus = xml_to_dict('../xml_files/' + locus +'.xml')
         lista.append(resuLocus)
     elif(name != ""):
         urlSearchName= 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=gene&term=' + name + '[Gene Name]&rettype=gb&retmode=xml'
         myfileSearchName = requests.get(urlSearchName)
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ name +'.xml', 'w').close
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ name +'.xml', 'wb').write(myfileSearchName.content)
-        listaIds = lista_ids('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ name +'.xml')
+        open('../xml_files/'+ name +'.xml', 'w').close
+        open('../xml_files/'+ name +'.xml', 'wb').write(myfileSearchName.content)
+        listaIds = lista_ids('../xml_files/'+ name +'.xml')
         lista = descarga_ids_name(listaIds)
     elif (organism != ""):
         urlSearchOrganism = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=nuccore&term='+ organism +'[organism]&rettype=gb&retmode=xml'
         myfileSearchOrganism = requests.get(urlSearchOrganism)
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ organism +'.xml', 'w').close
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ organism +'.xml', 'wb').write(myfileSearchOrganism.content)
-        listaIds = lista_ids('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ organism +'.xml')
+        open('../xml_files/'+ organism +'.xml', 'w').close
+        open('../xml_files/'+ organism +'.xml', 'wb').write(myfileSearchOrganism.content)
+        listaIds = lista_ids('../xml_files/'+ organism +'.xml')
         lista = descarga_ids(listaIds)
     elif (description != ""):
         urlSearchDescription = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=nuccore&term='+ description +'[title]&rettype=gb&retmode=xml'
         myfileSearchDescription = requests.get(urlSearchDescription)
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ description +'.xml', 'w').close
-        open('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ description +'.xml', 'wb').write(myfileSearchDescription.content)
-        listaIds = lista_ids('/Users/irenesanchez/Desktop/UNI/TFG/Virtuoso/src/'+ description +'.xml')
+        open('../xml_files/'+ description +'.xml', 'w').close
+        open('../xml_files/'+ description +'.xml', 'wb').write(myfileSearchDescription.content)
+        listaIds = lista_ids('../xml_files/'+ description +'.xml')
         lista = descarga_ids(listaIds)
     return lista
