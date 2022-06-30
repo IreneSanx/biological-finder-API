@@ -6,4 +6,4 @@ The API has been developed using FastAPI in Python.
 
 FastAPI is a Python framework designed to create API endpoints quickly, with fast execution as well.
 
-El código correspondiente a la interfaz gráfica se encuentra aquí: https://github.com/IreneSanx/biological-finder-frontend
+The code for the graphical interface can be found here: https://github.com/IreneSanx/biological-finder-frontend
